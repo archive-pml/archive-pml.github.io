@@ -1,0 +1,3 @@
+[submodule "martin-lof"]
+	path = martin-lof
+	url = https://github.com/michaelt/martin-lof
